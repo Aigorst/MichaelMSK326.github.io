@@ -29,4 +29,5 @@ twitter_url: https://twitter.com/andrewbanchich
 markdown: kramdown
 
 sass:
-style: compressed
+  sass_dir: assets/css
+  style: compressed
